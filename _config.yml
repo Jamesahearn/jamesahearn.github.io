@@ -1,4 +1,4 @@
-# Where things are
+# Where things are to change 
 source:      .
 destination: ./_site
 plugins_dir:     ./_plugins
